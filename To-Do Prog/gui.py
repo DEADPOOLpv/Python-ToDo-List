@@ -125,3 +125,7 @@ root.mainloop()
 # Close the database connection when the application is closed
 cursor.close()
 db.close()
+
+
+
+# Project made by Prathit Visen
