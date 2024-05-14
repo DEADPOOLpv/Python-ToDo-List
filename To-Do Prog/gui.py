@@ -127,5 +127,4 @@ cursor.close()
 db.close()
 
 
-
 # Project made by Prathit Visen
